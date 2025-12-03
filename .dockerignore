@@ -1,0 +1,23 @@
+# Archivos y directorios a ignorar en Docker
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+.git/
+.gitignore
+README.md
+*.md
+.DS_Store
+*.log
+.pytest_cache/
+.coverage
+htmlcov/
+
