@@ -1,0 +1,9 @@
+# Este proyecto no requiere dependencias externas
+# Todos los módulos utilizados (re, collections) son parte de la biblioteca estándar de Python
+#
+# Si en el futuro necesitas agregar dependencias, instálalas con:
+# pip install nombre-paquete
+#
+# Y luego actualiza este archivo con:
+# pip freeze > requirements.txt
+

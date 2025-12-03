@@ -37,3 +37,11 @@ saturacion_oxigeno = saturacion_oxigeno / 120
 
 
 # Imprimir los resultados
+print("El IMC del usuario es: ", imc)
+print("La presion arterial del usuario es: ", presion_arterial)
+print("La frecuencia cardiaca del usuario es: ", frecuencia_cardiaca)
+print("La frecuencia respiratoria del usuario es: ", frecuencia_respiratoria)
+print("La temperatura del usuario es: ", temperatura)
+print("La saturacion de oxigeno del usuario es: ", saturacion_oxigeno)
+print("El diagnostico del usuario es: ", diagnostico)
+print("El tratamiento del usuario es: ", tratamiento)
